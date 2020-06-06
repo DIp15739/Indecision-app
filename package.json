@@ -5,7 +5,6 @@
   "author": "Andrew Mead",
   "license": "MIT",
   "scripts": {
-    "serve": "live-server public/",
     "build:dev": "webpack",
     "build:prod": "webpack -p --env production",
     "dev-server": "webpack-dev-server",
@@ -22,7 +21,6 @@
     "css-loader": "0.28.4",
     "express": "4.15.4",
     "extract-text-webpack-plugin": "^3.0.2",
-    "live-server": "^1.2.0",
     "node-sass": "^4.14.1",
     "normalize.css": "7.0.0",
     "react": "15.6.1",
@@ -31,7 +29,10 @@
     "sass-loader": "6.0.6",
     "style-loader": "0.18.2",
     "validator": "8.0.0",
-    "webpack": "3.1.0",
+    "webpack": "3.1.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.0",
     "webpack-dev-server": "2.5.1"
   }
 }
