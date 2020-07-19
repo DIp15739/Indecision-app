@@ -1,5 +1,5 @@
 # Indecision App
-[(◔‿◔)!☞ Live Demo](http://indecision-app-reactjs-dv.herokuapp.com/)
+[(◔‿◔)!☞ Live Demo](https://indecision.dipvachhani.tech/)
 
 Web application built with ReactJS.
 
